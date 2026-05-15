@@ -1,0 +1,3 @@
+Analyzed pharmaceutical sales data to identify product demand trends and support business decision-making. 
+The analysis focused on comparing sales performance across products, identifying high-demand categories, and preparing insight-based presentation materials.
+Due to confidentiality, original client data is not shared.
